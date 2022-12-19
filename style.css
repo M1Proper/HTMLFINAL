@@ -1,0 +1,454 @@
+body{
+    background-color: black;
+}
+a{
+    color:inherit;
+    text-align: center;
+}
+h1,h2{
+    margin: 0;
+    text-align: center;
+}
+a{
+    color: red;
+    font-family: fantasy;
+    display: flex;
+    flex-wrap: 20px;
+}
+.panelka{
+    height:250px;
+    width: 400px;
+    background-image: url(https://w0.peakpx.com/wallpaper/447/134/HD-wallpaper-bleach-logo-symbol-black-background-anime-hollow-mask-plain-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 400px;
+}
+.panelka li:hover {
+    background-color: rgb(26, 133, 204);
+    border-radius: 5px;
+    transition: 0.5s ease;
+  }
+.preview{
+    height: 400px;
+    display: flex;
+    text-align:left;
+    justify-content: center;
+    align-items:center ;
+    font-size: 30px;
+    background-image: url(https://i.ytimg.com/vi/zr7ZW_TBZKA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBkgVCh_MA8=&amp;rs=AOn4CLCUtI5a26muMVrrnWy8UxmaqnyIjw);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.cards{
+    display: flex;
+    gap:20px;
+    flex-wrap: wrap;
+    background-color: red;
+}
+h2{
+    width: 100%;
+    background-color: black;
+    color: whitesmoke;
+}
+.imyaIchigo{
+    width: 700px;
+    height: 1000px;
+    position: relative;
+    left:1150px;
+    top:0px;
+    color:whitesmoke;
+    font-size: 1em; 
+    font-family: fantasy;
+}
+.ichigo1{
+    width: 900px;
+    height: 1000px;
+    background-image: url(https://images.pngnice.com/download/2110/Manga-Ichigo-Kurosaki-PNG-Pic.png);
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    background-size: 700px;
+    left: -235px;
+    top:100px;
+}
+.ichigo2{
+    width: 2800px;
+    height: 1400px;
+    background-image: url(https://www.freepngimg.com/thumb/bleach/24256-4-ichigo.png);
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    background-size: 1400px;
+    left: 550px;
+    top:-100px;
+}
+.opis{
+    width: 900px;
+    height: 1000px;
+    position: relative; 
+    left: -400px;
+    top:350px;
+    color:whitesmoke;
+    font-size: 0.7em;
+    font-family: fantasy;
+}
+.opisglav{
+    width: 700px;
+    height: 1000px;
+    position: relative;
+    left: -180px;
+    top:290px;
+    color:whitesmoke;
+    font-size: 0.7em;
+    font-family: fantasy;
+}
+.ichigobancaiglav{
+    width: 700px;
+    height: 1000px;
+    position: relative;
+    left: -250px;
+    top:350px;
+    color:whitesmoke;
+    font-size: 0.7em;
+    font-family: fantasy;
+}
+.ichigobancai{
+    width: 700px;
+    height: 1000px;
+    position: relative;
+    left: -550px;
+    top:400px;
+    color:whitesmoke;
+    font-size: 0.7em;
+    font-family: fantasy;
+}
+.ichigo{
+    height: 50px;
+    background-image:url(https://vdp.mycdn.me/getImage?id=31503616677&idx=0&thumbType=32);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+    width:calc(100%);
+    height:1200px;
+    font-size: 2em;
+}
+.panelkaichigo{
+    height:20px;
+    width: 200px;
+    background-position: center;
+    background-size: 100px;
+    position: relative;
+    top: 1080px;
+    font-size: 15px;
+}
+.panelkaichigo li:hover {
+    background-color: rgb(26, 133, 204);
+    border-radius: 5px;
+    transition: 0.5s ease;
+}
+.toushirou{
+    height: 50px;
+    background-image:url(https://vdp.mycdn.me/getImage?id=31503616677&idx=0&thumbType=32);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    display: flex;
+    width:calc(100%);
+    height:1200px;
+}
+.toushirou1{
+    width: 700px;
+    height: 1000px;
+    background-image: url(https://images3.alphacoders.com/964/thumb-1920-96499.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    background-size: 900px;
+    left: -270px;
+    top:362px;
+}
+.opis1{
+    width: 800px;
+    height: 1000px;
+    position: relative;
+    left:-600px;
+    top:600px;
+    color:whitesmoke;
+    font-size: 1.3em;
+    font-family: fantasy;
+}
+.opisglav1{
+    width: 700px;
+    height: 1000px;
+    position: relative;
+    left:-235px;
+    top:540px;
+    color:whitesmoke;
+    font-size: 1.5em;
+    font-family: fantasy;
+}
+.toushirou2{
+    width: 700px;
+    height: 1000px;
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/616/546/403/bleach-bankai-daiguren-hyourinmaru-hitsugaya-toushiro-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    background-size: 900px;
+    left: 785px;
+    top:-100px; 
+}
+.toushiroubancaiglav{
+    width: 700px;
+    height: 1000px;
+    position: relative;
+    left:250px;
+    top:0px;
+    color:whitesmoke;
+    font-size: 1.3em;
+    font-family: fantasy;
+}
+.toushiroubancai{
+    width: 700px;
+    height: 1000px;
+    position: relative;
+    left:-360px;
+    top:50px;
+    color:whitesmoke;
+    font-size: 1.3em;
+    font-family: fantasy;
+}
+.imyatoushirou{
+    width: 500px;
+    position: relative;
+    left:1130px;
+    top:0px;
+    color:whitesmoke;
+    font-size: 2em;
+    font-family: fantasy; 
+}
+.panelkaichigo1{
+    height:20px;
+    width: 200px;
+    background-position: center;
+    background-size: 100px;
+    position: relative;
+    top: 1080px;
+    font-size: 15px;
+    left:-2300px;
+    top:0px;
+}
+.panelkaichigo1 li:hover {
+    background-color: rgb(26, 133, 204);
+    border-radius: 5px;
+    transition: 0.5s ease;
+}
+.renji{
+    background-image:url(https://vdp.mycdn.me/getImage?id=31503616677&idx=0&thumbType=32);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    color: cyan;
+    display: flex;
+    width:calc(100%);
+    height:1200px;
+}
+.imyarenji{
+    width: 700px;
+    position: relative;
+    left:1130px;
+    top:0px;
+    color:whitesmoke;
+    font-size: 2em;
+    font-family: fantasy; 
+}
+.opis2{
+    width: 800px;
+    height: 1000px;
+    position: relative;
+    left:-450px;
+    top:330px;
+    color:whitesmoke;
+    font-size: 1.3em;
+    font-family: fantasy;
+}
+.opisglav2{
+    width: 700px;
+    height: 1000px;
+    position: relative;
+    left:-205px;
+    top:280px;
+    color:whitesmoke;
+    font-size: 1.5em;
+    font-family: fantasy;
+}
+.renji1{
+    width: 900px;
+    height: 1000px;
+    background-image: url(https://vignette.wikia.nocookie.net/p__/images/7/7e/Abarai_renji_by_esteban93-d5jjdcd.png/revision/latest?cb=20140314164227&path-prefix=protagonist);
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    background-size: 700px;
+    left: -240px;
+    top:100px;
+}
+.renji2{
+    width: 1800px;
+    height: 1400px;
+    background-image: url(https://vignette.wikia.nocookie.net/vsbattles/images/f/fc/TYBW_Renji_Rendered.png/revision/latest?cb=20180607091735);
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    background-size: 1000px;
+    left: 600px;
+    top:-330px;
+}
+.renjibancaiglav{
+    width: 700px;
+    height: 1000px;
+    position: relative;
+    left:250px;
+    top:750px;
+    color:whitesmoke;
+    font-size: 1.3em;
+    font-family: fantasy;
+}
+.renjibancai{
+    width: 700px;
+    height: 1000px;
+    position: relative;
+    left:-20px;
+    top:800px;
+    color:whitesmoke;
+    font-size: 1.3em;
+    font-family: fantasy;
+}
+.panelkarendji{
+    height:50px;
+    width: 100px;
+    background-position: center;
+    background-size: 400px;
+    position: relative;
+    top: 1050px;
+    
+}
+.panelkarendji li:hover {
+    background-color: rgb(26, 133, 204);
+    border-radius: 5px;
+    transition: 0.5s ease;
+}
+.kenpachi{
+    height: 50px;
+    background-image:url(https://vdp.mycdn.me/getImage?id=31503616677&idx=0&thumbType=32);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    display: flex;
+    width:calc(100%);
+    height:1200px;
+}
+.imyakenpachi{
+    width: 700px;
+    position: relative;
+    left:1130px;
+    top:0px;
+    color:whitesmoke;
+    font-size: 2em;
+    font-family: fantasy; 
+}
+.opis3{
+    width: 800px;
+    height: 1000px;
+    position: relative;
+    left:-480px;
+    top:330px;
+    color:whitesmoke;
+    font-size: 1.3em;
+    font-family: fantasy;
+}
+.opisglav3{
+    width: 700px;
+    height: 1000px;
+    position: relative;
+    left:-205px;
+    top:280px;
+    color:whitesmoke;
+    font-size: 1.5em;
+    font-family: fantasy;
+}
+.kenpachi1{
+    width: 900px;
+    height: 1000px;
+    background-image: url(https://www.seekpng.com/png/full/632-6328541_kenpachi-zaraki-database.png);
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    background-size: 700px;
+    left: -240px;
+    top:100px;
+}
+.kenpachi2{
+    width: 1800px;
+    height: 1400px;
+    background-image: url(https://comicvine.gamespot.com/a/uploads/original/11145/111450630/7816528-bf925b8d920d2a15d6fff04aebe7ba28.png);
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    background-size: 600px;
+    left: 800px;
+    top:-100px;
+}
+.kenpachibancaiglav{
+    width: 700px;
+    height: 1000px;
+    position: relative;
+    left:-50px;
+    top:350px;
+    color:whitesmoke;
+    font-size: 1.3em;
+    font-family: fantasy;
+}
+.kenpachibancai{
+    width: 700px;
+    height: 1000px;
+    position: relative;
+    left:-320px;
+    top:400px;
+    color:whitesmoke;
+    font-size: 1.3em;
+    font-family: fantasy;
+}
+.panelkakenpachi{
+    height:50px;
+    width: 100px;
+    background-position: center;
+    background-size: 400px;
+    position: relative;
+    top: 1150px;
+    
+}
+.panelkakenpachi li:hover {
+    background-color: rgb(26, 133, 204);
+    border-radius: 5px;
+    transition: 0.5s ease;
+}
+@-webkit-keyframes pulsate {
+    50% { color: #fff; text-shadow: 0 -1px rgba(0,0,0,.3), 0 0 5px #ffd, 0 0 8px #fff; }
+   }
+   @keyframes pulsate {
+    50% { color: #fff; text-shadow: 0 -1px rgba(0,0,0,.3), 0 0 5px #ffd, 0 0 8px #fff; }
+   }
+   #blink7 {
+     color: rgb(245,245,245);
+     text-shadow: 0 -1px rgba(0,0,0,.1);
+     -webkit-animation: pulsate 1.2s linear infinite;
+     animation: pulsate 1.2s linear infinite;
+     position: relative;
+     top:1500px;
+     left:-1150px;
+     font-size: 2em;
+     font-family:matura mt script capitals;
+   }
